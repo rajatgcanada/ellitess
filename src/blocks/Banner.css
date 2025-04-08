@@ -1,0 +1,25 @@
+.banner-bg {
+    background-color: #0d6efd; /* Bootstrap Primary or use #000 for black */
+  }
+  
+  .banner-image {
+    overflow: hidden;
+  }
+  
+  .sold-overlay {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    background-color: #000;
+    color: #fff;
+    padding: 4px 10px;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 4px;
+    opacity: 0.85;
+  }
+
+  .text-decoration{
+    text-decoration: none;
+  }
+  
